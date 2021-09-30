@@ -21,7 +21,7 @@ Go through these resources to get started learning some React!
 * [ ] Take a look at some extra [JSX gotchas (courtesy of tyler McGinnis)](https://ui.dev/jsx/)
 * [ ] Optional: practice building a simple app in React. Think of a mod 1 project, and build that in React!
 
-[ ] We strongly encourage you to spin up a React app with [Create React App](https://create-react-app.dev/) and play around with it!
+* [ ] We strongly encourage you to spin up a React app with [Create React App](https://create-react-app.dev/) and play around with it!
 
 ### Asynchronous JavaScript
 
@@ -88,7 +88,7 @@ _ _
 
 _Note:_ As you do your research, stay away from React articles that talk exclusively about "hooks". We _will_ be learning hooks in Mod 3 but they are not a requirement for success in the module.
 
-** [ ] By 5PM on Friday of intermission, send a link to your gist in a DM to _both_ of your instructors.**
+* [ ] ** By 5PM on Friday of intermission, send a link to your gist in a DM to _both_ of your instructors.**
 
 ### 2. LinkedIn Updates *(required)*
 Please update your LinkedIn profiles with...  
