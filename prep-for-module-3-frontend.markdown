@@ -75,16 +75,16 @@ _ _
 ## Deliverables 
 
 ### 1. React Review *(required)*
-* [ ] Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
+* [x] Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
 
-* What is a "data model", and how does it relate to the DOM in a front-end application?
-* What is a "framework?" And how does it differ from a "library?"
-* Why should we consider using a framework over vanilla JS like you have been doing in mods 1 and 2?
-* What is a "component" in React? Why is it useful to have components?
-* What is JSX?
-* What are React "props?"
-* What is React "state?"
-* What does "data down, actions up" mean in React?
+* [ ] What is a "data model", and how does it relate to the DOM in a front-end application?
+* [ ] What is a "framework?" And how does it differ from a "library?"
+* [ ] Why should we consider using a framework over vanilla JS like you have been doing in mods 1 and 2?
+* [ ] What is a "component" in React? Why is it useful to have components?
+* [ ] What is JSX?
+* [ ] What are React "props?"
+* [ ] What is React "state?"
+* [ ] What does "data down, actions up" mean in React?
 
 _Note:_ As you do your research, stay away from React articles that talk exclusively about "hooks". We _will_ be learning hooks in Mod 3 but they are not a requirement for success in the module.
 
