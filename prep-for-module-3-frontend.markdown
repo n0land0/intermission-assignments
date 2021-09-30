@@ -92,9 +92,9 @@ _Note:_ As you do your research, stay away from React articles that talk exclusi
 
 ### 2. LinkedIn Updates *(required)*
 Please update your LinkedIn profiles with...  
-* [ ] additional skills that you’ve learned since Mod 1
+* [x] additional skills that you’ve learned since Mod 1
 * [ ] ensure you have technical keywords in your About Me professional story
-* [ ] take “student” out of your headline if it’s there 
+* [x] take “student” out of your headline if it’s there 
 * [ ] any other updates needed to get your LinkedIn optimized for your job search  
 
 
