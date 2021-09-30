@@ -75,7 +75,7 @@ _ _
 ## Deliverables 
 
 ### 1. React Review *(required)*
-[ ] Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
+* [ ] Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
 
 * What is a "data model", and how does it relate to the DOM in a front-end application?
 * What is a "framework?" And how does it differ from a "library?"
@@ -97,7 +97,8 @@ Please update your LinkedIn profiles with...
 * [ ] take “student” out of your headline if it’s there 
 * [ ] any other updates needed to get your LinkedIn optimized for your job search  
 
-[ ] [Here’s a refresher on our guidelines for effective LinkedIn profiles.](https://careerdev.turing.edu/resources/branding_resources) The Career Dev team will be requesting a re-submission of your LinkedIn on Friday of Week 2, and we recommend using intermission to work on this.
+
+* [ ] [Here’s a refresher on our guidelines for effective LinkedIn profiles.](https://careerdev.turing.edu/resources/branding_resources) The Career Dev team will be requesting a re-submission of your LinkedIn on Friday of Week 2, and we recommend using intermission to work on this.
 
 ### 3. Extras *(optional)*
 
