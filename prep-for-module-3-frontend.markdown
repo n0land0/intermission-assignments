@@ -15,7 +15,7 @@ There are a bunch of JavaScript frameworks out there to use. At Turing, we choos
 
 Go through these resources to get started learning some React!
 
-* [ ] Read over Tyler McGinnis' [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+* [x] Read over Tyler McGinnis' [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 * [ ] Go through the [React tutorial from the docs](https://reactjs.org/tutorial/tutorial.html)
 * [ ] Take a deeper dive into JSX with the [React docs](https://reactjs.org/docs/introducing-jsx.html) and this [tutorial](https://flaviocopes.com/jsx/)
 * [ ] Take a look at some extra [JSX gotchas (courtesy of tyler McGinnis)](https://ui.dev/jsx/)
