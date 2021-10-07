@@ -77,18 +77,18 @@ _ _
 ### 1. React Review *(required)*
 * [x] Create a GitHub gist to answer these questions in as much detail as possible. Imagine someone is asking these questions in an interview (these are popular interview questions).
 
-* [ ] What is a "data model", and how does it relate to the DOM in a front-end application?
-* [ ] What is a "framework?" And how does it differ from a "library?"
-* [ ] Why should we consider using a framework over vanilla JS like you have been doing in mods 1 and 2?
-* [ ] What is a "component" in React? Why is it useful to have components?
-* [ ] What is JSX?
-* [ ] What are React "props?"
-* [ ] What is React "state?"
-* [ ] What does "data down, actions up" mean in React?
+* [x] What is a "data model", and how does it relate to the DOM in a front-end application?
+* [x] What is a "framework?" And how does it differ from a "library?"
+* [x] Why should we consider using a framework over vanilla JS like you have been doing in mods 1 and 2?
+* [x] What is a "component" in React? Why is it useful to have components?
+* [x] What is JSX?
+* [x] What are React "props?"
+* [x] What is React "state?"
+* [x] What does "data down, actions up" mean in React?
 
 _Note:_ As you do your research, stay away from React articles that talk exclusively about "hooks". We _will_ be learning hooks in Mod 3 but they are not a requirement for success in the module.
 
-* [ ] ** By 5PM on Friday of intermission, send a link to your gist in a DM to _both_ of your instructors.**
+* [x] ** By 5PM on Friday of intermission, send a link to your gist in a DM to _both_ of your instructors.**
 
 ### 2. LinkedIn Updates *(required)*
 Please update your LinkedIn profiles with...  
