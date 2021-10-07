@@ -89,6 +89,7 @@ _ _
 _Note:_ As you do your research, stay away from React articles that talk exclusively about "hooks". We _will_ be learning hooks in Mod 3 but they are not a requirement for success in the module.
 
 * [x] ** By 5PM on Friday of intermission, send a link to your gist in a DM to _both_ of your instructors.**
+[my gist](https://gist.github.com/n0land0/b26f93b9e6b7ee481b7592dc1ace6b45)
 
 ### 2. LinkedIn Updates *(required)*
 Please update your LinkedIn profiles with...  
