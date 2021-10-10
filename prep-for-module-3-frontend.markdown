@@ -66,11 +66,11 @@ xcode-select --install
 In Mod 3, you'll begin building up the habits you'll take with you beyond Turing. Track your schedule and learning process over break! 
 
 - When do you work most effectively? The morning? The afternoon? The evening? 
-_ _
+_Evening. I'm finding the afternoon to be a challenge but when on top of my exercise game it's actually my better work time._
 - While beginning to learn about React, what do you find most effective? Watching videos? Reading docs? Trying out the code yourself? A combination?
-_ _
+_Definitely writing the code myself. I'm finding the Scrimba course better than the reading for that reason._
 - What are some daily routines you need to keep up in order to be well-rested and able to learn?
-_ _
+_I work most effectively once I've had a chance to meditate and do some bit of exercise - helps my concentration being more comfortable in my body, "activated" for the day. Also having any food for the day 99% prepared the night before, to not waste time & energy in the first half of the day on that - part of a next-day prep routine to wind down the night._
 
 ## Deliverables 
 
