@@ -69,7 +69,7 @@ In Mod 3, you'll begin building up the habits you'll take with you beyond Turing
 
 _Evening. I'm finding the afternoon to be a challenge but when on top of my exercise game it's actually my better work time._
  
-While beginning to learn about React, what do you find most effective? Watching videos? Reading docs? Trying out the code yourself? A combination?
+- While beginning to learn about React, what do you find most effective? Watching videos? Reading docs? Trying out the code yourself? A combination?
 
 _Definitely writing the code myself. I'm finding the Scrimba course better than the reading for that reason._
 
