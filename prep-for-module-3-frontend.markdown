@@ -43,8 +43,8 @@ We are going to learn a new type of testing! In Mods 1 and 2, you learned about 
 
 Workflow is something you will deal with every day on the job. Let's continue strengthening our knowledge of workflow skills with these articles.
 
-* [ ] Review [The Difference Between Forking and Cloning a Repository](https://github.community/t5/Support-Series/The-difference-between-forking-and-cloning-a-repository/ba-p/1372)
-* [ ] Review [Updating a Remote's URL](https://help.github.com/en/articles/changing-a-remotes-url)
+* [x] Review [The Difference Between Forking and Cloning a Repository](https://github.community/t5/Support-Series/The-difference-between-forking-and-cloning-a-repository/ba-p/1372)
+* [x] Review [Updating a Remote's URL](https://help.github.com/en/articles/changing-a-remotes-url)
 
 ### Tooling 
 
