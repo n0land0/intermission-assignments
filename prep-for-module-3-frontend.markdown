@@ -27,9 +27,9 @@ Go through these resources to get started learning some React!
 
 We will continue to work with asynchronous JavaScript, mainly when we use network requests to get data from servers (like using the `fetch`). We will go in depth with asynchronous JavaScript, including how to test it in mod 3.
 
-* [ ] Watch [this video](https://www.youtube.com/watch?v=eesqK59rhGA) on details of the request/response cycle.
-* [ ] Read [ajax in react](https://reactjs.org/docs/faq-ajax.html) to learn about incorporating network requests in React apps.
-* [ ] Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop.
+* [x] Watch [this video](https://www.youtube.com/watch?v=eesqK59rhGA) on details of the request/response cycle.
+* [x] Read [ajax in react](https://reactjs.org/docs/faq-ajax.html) to learn about incorporating network requests in React apps.
+* [x] Watch [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) on the event loop. - *watched this last mod*
 
 ### Testing paradigms
 
